@@ -1,1 +1,2 @@
-print "im new"
+while True:
+    print "im new"
